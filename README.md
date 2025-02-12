@@ -10,3 +10,6 @@ You need to have Docker installed in your machine.
 # Usage
 This project shows in the root path a simple message. You can access it by running the following command:
 ```curl localhost:8080```
+
+# Files
+You can check the screenshots as the proofs for each task in the folder "proofs"
